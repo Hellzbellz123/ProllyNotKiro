@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"STARTING_STATE"
+			],
+			[
+				"bod",
+				"bodies"
+			],
+			[
+				"bo",
+				"bodies"
+			],
+			[
+				"pos",
+				"position_deltas"
+			],
+			[
+				"b",
+				"BODIES_COUNT"
+			],
+			[
+				"B",
+				"BODIES_COUNT"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"sta",
+				"STARTING_STATE"
+			],
+			[
+				"v",
+				"as_vectors"
+			],
+			[
+				"un",
+				"unsafe"
+			],
+			[
+				"ad",
+				"advance"
+			],
+			[
+				"as",
+				"as_mut_ptr"
+			],
+			[
+				"i",
+				"i_mass_magnitude"
+			],
+			[
+				"position_de",
+				"position_Deltas"
+			],
+			[
+				"poi",
+				"position_Deltas"
+			],
+			[
+				"dis",
+				"distance_Reciprocal"
+			],
+			[
+				"dista",
+				"distance_Reciprocal"
+			],
+			[
+				"d",
+				"distance_Squared"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"_mm",
+				"_mm_mul_pd"
+			],
+			[
+				"di",
+				"distance_Reciprocal"
+			],
+			[
+				"po",
+				"position_Delta"
+			],
+			[
+				"in",
+				"INTERACTIONS_COUNT"
+			],
+			[
+				"f",
+				"f64"
+			],
+			[
+				"Bo",
+				"BODIES_COUNT"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"pr",
+				"println"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.rs",
+			"settings":
+			{
+				"buffer_size": 45,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/home/hellzbellz/Documents/SublimeProjects/hello_cargo/.gitignore",
+			"settings":
+			{
+				"buffer_size": 8,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAgAAAAAAAAACAAAAAAAAAAmAAAAY2FyZ28ubG9jawpoZWxsb19jYXJnby5zdWJsaW1lLXByb2plY3Q",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"for",
+				"RustFmt: Format Buffer"
+			],
+			[
+				"format",
+				"RustFmt: Format Buffer"
+			],
+			[
+				"rust ",
+				"RustFmt: Format Buffer"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"rust ca",
+				"Rust: Configure Cargo Build"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"?",
+			"cargo",
+			"list module",
+			"list",
+			"clear",
+			"help what",
+			"?",
+			"help",
+			"clear",
+			"cargo new hello_world"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hellzbellz/Documents/SublimeProjects/ProllyNotKiro",
+		"/home/hellzbellz/Documents/SublimeProjects/ProllyNotKiro/src"
+	],
+	"file_history":
+	[
+		"/home/hellzbellz/Documents/SublimeProjects/hecto/.git/config",
+		"/home/hellzbellz/Documents/SublimeProjects/ProllyNotKiro/.git/config",
+		"/home/hellzbellz/Documents/SublimeProjects/hecto/.gitignore",
+		"/home/hellzbellz/Documents/SublimeProjects/hecto/Cargo.toml",
+		"/home/hellzbellz/Documents/SublimeProjects/hecto/src/main.rs",
+		"/home/hellzbellz/Documents/SublimeProjects/hecto/.git/description",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/lrtdw/src/main.rs",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/UBenchmark/src/main.rs",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/UBenchmark/Cargo.toml",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/UBenchmark/.cargo/config",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/lrtdw/src/nbody-3.rscop",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/lrtdw/src/nbody-1",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/lrtdw/src/nbody.gcc-8",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/lrtdw/src/nbody-1.rs",
+		"/home/hellzbellz/Documents/SublimeProjects/learnrustthedangerousway/nbody.gcc-8.c",
+		"/home/hellzbellz/source/redox/installer/config/default.toml",
+		"/home/hellzbellz/source/redox/docker/Dockerfile",
+		"/home/hellzbellz/source/redox/docker/README.md",
+		"/home/hellzbellz/source/redox/build/initfs_live/etc/init.rc",
+		"/home/hellzbellz/source/redox/installer/target/CACHEDIR.TAG",
+		"/home/hellzbellz/source/redox/installer/target/release/build/getrandom-78e0ad8f6bdace61/output",
+		"/home/hellzbellz/Desktop/checkallupdates.sh",
+		"/home/hellzbellz/source/redox/kernel/build.rs",
+		"/home/hellzbellz/source/redox/bootloader-efi/README.md",
+		"/home/hellzbellz/source/redox/isolinux/isolinux.cfg",
+		"/home/hellzbellz/source/redox/config/minimal.toml",
+		"/home/hellzbellz/source/redox/Makefile",
+		"/home/hellzbellz/source/redox/config/desktop.toml",
+		"/home/hellzbellz/source/redox/isolinux/COPYING",
+		"/home/hellzbellz/source/redox/cookbook/recipes/zlib/source/os400/README400",
+		"/home/hellzbellz/Documents/SublimeProjects/hello_cargo/Cargo.toml",
+		"/home/hellzbellz/.cargo/registry/src/github.com-1ecc6299db9ec823/rand-0.8.4/src/rng.rs",
+		"/home/hellzbellz/Documents/SublimeProjects/hello_cargo/src/main.rs",
+		"/home/hellzbellz/.config/modprobed-db.conf",
+		"/home/hellzbellz/.config/modprobed.db",
+		"/home/hellzbellz/source/redox/cookbook/status.sh",
+		"/home/hellzbellz/Documents/SublimeProjects/hello_cargo/hello_cargo.sublime-project",
+		"/home/hellzbellz/Documents/SublimeProjects/hello_cargo/.gitignore",
+		"/home/hellzbellz/Documents/SublimeProjects/Hello_World/main.rs",
+		"/home/hellzbellz/Documents/SublimeProjects/HelloWorld/main.rs"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/hellzbellz/Documents/SublimeProjects/hello_cargo/.gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
+	"project": "prollynotkiro.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
